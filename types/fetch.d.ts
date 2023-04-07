@@ -4,6 +4,7 @@
 
 import { Blob } from 'buffer'
 import { URL, URLSearchParams } from 'url'
+//@ts-ignore
 import { ReadableStream } from 'stream/web'
 import { FormData } from './formdata'
 
